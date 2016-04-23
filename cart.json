@@ -1,5 +1,8 @@
 [
-	{"nama":"Tokopedia", "thumbnail":"http://liealberttriadrian.github.io/images/tokopedia.png", "waktu":"10/04/2016 10:45AM", "total":"Rp 200.000,-"},
-	{"nama":"BukaLapak", "thumbnail":"http://liealberttriadrian.github.io/images/bukalapak.png", "waktu":"10/04/2016 11:00AM", "total":"Rp 250.000,-"},
-	{"nama":"Traveloka", "thumbnail":"http://liealberttriadrian.github.io/images/traveloka.png", "waktu":"10/04/2016 12:00AM", "total":"Rp 600.000,-"}
+	{"nama":"Tokopedia", "thumbnail":"http://alberttriadrian.github.io/images/tokopedia.png", "waktu":"10/04/2016 10:45AM", "total":"Rp 200.000,-"},
+	{"nama":"BukaLapak", "thumbnail":"http://alberttriadrian.github.io/images/bukalapak.png", "waktu":"10/04/2016 11:00AM", "total":"Rp 250.000,-"},
+	{"nama":"Traveloka", "thumbnail":"http://alberttriadrian.github.io/images/traveloka.png", "waktu":"10/04/2016 12:00AM", "total":"Rp 600.000,-"},
+	{"nama":"KFC", "thumbnail":"http://alberttriadrian.github.io/images/kfc.jpg", "waktu":"10/04/2016 13:10AM", "total":"Rp 30.000,-"},
+	{"nama":"Gramedia", "thumbnail":"http://alberttriadrian.github.io/images/gramedia.png", "waktu":"10/04/2016 14:40AM", "total":"Rp 210.000,-"},
+	{"nama":"McDonald", "thumbnail":"http://alberttriadrian.github.io/images/mcdonald.jpg", "waktu":"10/04/2016 18:20AM", "total":"Rp 35.000,-"}
 ]
