@@ -1,6 +1,6 @@
 [
 	{"nama":"KFC", "thumbnail":"http://alberttriadrian.github.io/images/kfc.jpg", "distance": "100", "address" : "Jl. Bukit Sari 1" },
 	{"nama":"Gramedia", "thumbnail":"http://alberttriadrian.github.io/images/gramedia.png", "distance": "200", "address" : "Jl. Bukit Sari 2" },
-	{"nama":"McDonald", "thumbnail":"http://alberttriadrian.github.io/images/mcdonald.jpg", "distance": "300", "address" : "Jl. Bukit Sari 3" }
-	{"nama":"Starbucks", "thumbnail":"http://alberttriadrian.github.io/images/starbucks.jpg", "distance": "400", "address" : "Jl. Bukit Sari 4" },
-]
+	{"nama":"McDonald", "thumbnail":"http://alberttriadrian.github.io/images/mcdonald.jpg", "distance": "300", "address" : "Jl. Bukit Sari 3" },
+	{"nama":"Starbucks", "thumbnail":"http://alberttriadrian.github.io/images/starbucks.jpg", "distance": "400", "address" : "Jl. Bukit Sari 4" }.
+] 
