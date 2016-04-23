@@ -1,0 +1,6 @@
+[
+	{"transaction_id":"13413280","nama":"KFC", "thumbnail":"http://alberttriadrian.github.io/images/kfc.jpg", "total":"Rp 30.000,-", "distance": "100", "address" : "Jl. Bukit Sari 1" },
+	{"transaction_id":"13413289","nama":"Gramedia", "thumbnail":"http://alberttriadrian.github.io/images/gramedia.png", "total":"Rp 210.000,-", "distance": "200", "address" : "Jl. Bukit Sari 2" },
+	{"transaction_id":"13413301","nama":"McDonald", "thumbnail":"http://alberttriadrian.github.io/images/mcdonald.jpg",  "total":"Rp 35.000,-", "distance": "300", "address" : "Jl. Bukit Sari 3" }
+	{"transaction_id":"13413280","nama":"Starbucks", "thumbnail":"http://alberttriadrian.github.io/images/starbucks.jpg", "total":"Rp 30.000,-","distance": "400", "address" : "Jl. Bukit Sari 4" },
+]
