@@ -1,6 +1,7 @@
 {
 	"partner_id": "123456789",
-	"user_id": "23456789",
+	"merchant_name": "Lingga expired",
+	"merchant_profile_picture_url": "http://www.xendit.co/img/logo.png",
 	"amount": 10000,
 	"player_email": "albert@xendit.co",
 	"description": "expired",
